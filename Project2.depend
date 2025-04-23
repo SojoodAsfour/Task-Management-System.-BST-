@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1745437719 source:c:\users\sojou\onedrive\desktop\data structure\project2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
